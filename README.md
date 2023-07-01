@@ -1,5 +1,5 @@
 ### Hi there 👋
-<summary><b>:zap: GitHub Profile Stat</b></summary>
+<summary><b>GitHub Profile Stat</summary>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RizkyFirman00&show_icons=true" />
 
 
