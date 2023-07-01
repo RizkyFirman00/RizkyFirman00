@@ -1,14 +1,7 @@
 ### Hi there 👋
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RizkyFirman00&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/RizkyFirman00/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RizkyFirman00&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
+<summary><b>:zap: GitHub Profile Stat</b></summary>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RizkyFirman00&show_icons=true" />
+
 
 **RizkyFirman00/RizkyFirman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
