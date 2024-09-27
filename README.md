@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Muhammmad Rizky Firmansyah</h1>
+<h1 align="center">Hi, my name is Muhammmad Rizky Firmansyah</h1>
+<h2 align="center">Mobile Apps Enthusiast</h2>
 
 <div align="center">
 
