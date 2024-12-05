@@ -3,8 +3,6 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RizkyFirman00&rank_icon=github&show_icons=true&theme=yeblu)](https://github.com/RizkyFirman00/github-readme-stats#yeblue)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyFirman00&layout=donut-vertical&theme=yeblu)](https://github.com/RizkyFirman00/github-readme-stats&theme=yeblu)
 
 </div>
